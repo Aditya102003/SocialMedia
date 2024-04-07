@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
         width={size}
         height={size}
         alt="user"
-        src={`https://backend-aditya.vercel.app/assets/${image}`}
+        src={`https://socialmedia-la1d.onrender.com/assets/${image}`}
       />
     </Box>
   );
